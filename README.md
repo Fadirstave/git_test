@@ -1,2 +1,2 @@
 # git_test
-Hello Odin! Im updating this yo.
+If you are reading this, Im learning how to code!! =D
